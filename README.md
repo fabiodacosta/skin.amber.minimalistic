@@ -1,4 +1,4 @@
 skin.amber
 ==========
 
-Amber-FC skin for XBMC Gotham by fabiodacosta
+Amber Minimalistic skin for XBMC Gotham by fabiodacosta
